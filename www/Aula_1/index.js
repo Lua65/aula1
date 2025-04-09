@@ -1,0 +1,7 @@
+console.log("Olá, Mundo!")
+console.log("Meu nome é Luana")
+console.log("Tenho 17 anos.")
+console.log(10+5)
+console.log(20-10)
+console.log(8*9)
+console.log(25/5)
